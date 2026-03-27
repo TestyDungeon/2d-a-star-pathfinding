@@ -19,6 +19,8 @@ Enemies use the A* algorithm to find the shortest path to the player.
 - Depth-First Search
 The map is generated using DFS.
 
+The scripts are in Assets/Maze/Scripts .
+
 ## 🎮 How to Run
 
-- Game executable is in /Game/ folder.
+- Game executable is in Game folder.
